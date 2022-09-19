@@ -1,2 +1,2 @@
 # Gausssian-process-Julia
-Just a trail code for gaussian process in julia
+Just a trial code for gaussian process in julia
