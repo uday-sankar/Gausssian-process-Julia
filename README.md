@@ -1,2 +1,2 @@
 # Gausssian-process-Julia
-Just a trial code for gaussian process in julia
+A test code for gaussian process regression in Julia
